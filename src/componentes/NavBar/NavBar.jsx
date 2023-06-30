@@ -14,16 +14,16 @@ const NavBar = () => {
           <ul>
 
             <li>
-              <NavLink to={`/categoria/1`}> Remeras </NavLink>
+              <NavLink to={`/categoria/Remeras`}> Remeras </NavLink>
             </li>
             <li>
-              <NavLink to={`/categoria/2`}> Camisas </NavLink>
+              <NavLink to={`/categoria/Camisas`}> Camisas </NavLink>
             </li>
             <li>
-              <NavLink to={`/categoria/3`}> Pantalones </NavLink>
+              <NavLink to={`/categoria/Pantalones`}> Pantalones </NavLink>
             </li>
             <li>
-              <NavLink to={`/categoria/4`}> Sweaters </NavLink>
+              <NavLink to={`/categoria/Sweaters`}> Sweaters </NavLink>
             </li>
 
             

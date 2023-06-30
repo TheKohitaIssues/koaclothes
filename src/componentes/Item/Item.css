@@ -3,6 +3,7 @@ img {
     height: 10vw;
 }
 .cardProduct {
+    border-radius: 15px;
     display: flex;
     flex-direction: column;
     text-align: center;
