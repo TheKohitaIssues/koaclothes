@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedorProductos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 8vh;
+    flex-wrap: wrap;
+    margin-left: 8vw;
+    margin-right: 8vw;
+}
