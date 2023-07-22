@@ -1,5 +1,9 @@
-.carrito {
+.imgCarrito {
     width: 3vw;
     height: 3vw;
     
+}
+div strong {
+    font-size: 1vw;
+    color: rgb(65, 0, 55);
 }
